@@ -1,9 +1,9 @@
 .navbar {
-  border-bottom: #2980b9 solid 5px;
+  border-bottom: #b9211c solid 5px;
 }
 
 #services .card:hover {
-  background: #2d3436;
+  background: #6ec8e0;
   color: #ffff;
 }
 body {
